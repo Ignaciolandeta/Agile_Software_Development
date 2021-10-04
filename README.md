@@ -8,4 +8,4 @@ After completing this course, will be able to:
 
 Project: fictional case studies, to exercise some of the practices, techniques, etc that team members of an agile team members are expected to know.
 
-University of Minnesota certificate: 
+University of Minnesota certificate: https://coursera.org/share/1eab798d0e13183c880121d7a3251e22
